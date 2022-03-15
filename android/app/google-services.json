@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929355849941",
+    "project_id": "flutter-chat-app-58b96",
+    "storage_bucket": "flutter-chat-app-58b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929355849941:android:62dec715431a200056025c",
+        "android_client_info": {
+          "package_name": "com.hilmi.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929355849941-qoq8go5lrgrjgiok3tuj4o50vtv1cd16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT51F-w-CDbDN_WcwiSNy3loMJxka9Kjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929355849941-qoq8go5lrgrjgiok3tuj4o50vtv1cd16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
